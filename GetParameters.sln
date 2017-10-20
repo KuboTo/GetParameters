@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetParameters", "GetParameters\GetParameters.csproj", "{37E08700-CF10-4B4A-826D-549AB85F96FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37E08700-CF10-4B4A-826D-549AB85F96FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37E08700-CF10-4B4A-826D-549AB85F96FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37E08700-CF10-4B4A-826D-549AB85F96FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37E08700-CF10-4B4A-826D-549AB85F96FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
